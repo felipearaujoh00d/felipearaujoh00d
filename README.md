@@ -1,1 +1,1 @@
-Olá, eu sou felipe
+Sou um analista de software apaixonado por ajudar encontrar soluções de negócio em meio aos grandes desafios tecnologicos. Algumas tecnologias com as quais gosto de trabalhar incluem ReactJS, JavaScript e GraphQL.
